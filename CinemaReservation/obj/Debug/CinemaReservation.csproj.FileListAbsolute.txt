@@ -1,0 +1,11 @@
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe.config
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.pdb
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.AssemblyReference.cache
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.SuggestedBindingRedirects.cache
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Form1.resources
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Properties.Resources.resources
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.GenerateResource.cache
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.CoreCompileInputs.cache
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.exe
+D:\Project\jt\c_sharp\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.pdb
